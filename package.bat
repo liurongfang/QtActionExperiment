@@ -1,0 +1,1 @@
+pyinstaller -Fw -i res/icon.ico app.py
